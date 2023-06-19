@@ -6,4 +6,4 @@
         
         function entrar() {togo.innerText='Went'}
         function sair() {togo.innerText='To Go'}
-        function clicar() {togo.innerText= 'You went.... You did not go.   Did You go?'}
+        function clicar() {togo.innerText= 'Went'}
